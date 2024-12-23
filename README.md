@@ -37,3 +37,6 @@ Set up EEG device
 
 ### [Lab2: Mind Control Car](https://docs.google.com/document/d/1lSNk38iqKUHWHH7VzyXHGKA_-fwoazC4FDSmgkpoloI/edit?tab=t.0)
 Using the alpha power ratio from EEG signals to control the operation of a remote-controlled car
+
+### [Lab3: Car Competition](https://docs.google.com/document/d/1Hqe9jIiIAccHKHQhhHpx4_XzCP1vGJsadfEsHtkuljI/edit?tab=t.0)
+Controlling the car to turn right and left using hybrid-BCI approach
