@@ -26,4 +26,5 @@ Set up EEG device
 - Learn how to work with 4-channel EEG cap
 - record EEG for at least 5 minutes
 
-### [Lab2: 
+### [Lab2: Mind Control Car](https://docs.google.com/document/d/1lSNk38iqKUHWHH7VzyXHGKA_-fwoazC4FDSmgkpoloI/edit?tab=t.0)
+Using the alpha power ratio from EEG signals to control the operation of a remote-controlled car
