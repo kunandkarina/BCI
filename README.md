@@ -8,7 +8,7 @@
 BCI Research Review
 
 ### [HW2 EEG Analysis](https://docs.google.com/document/d/14Z3eEZqR3-dIJ_qFf7efZGTN9PZMMNrQ/edit)
-Preprocessing P300 & Using Independent Component Analysis and Artifact Removal
+Preprocessing P300 signals using Independent Component Analysis and Artifact Removal
 
 **Key feature**
 - EEGLab
