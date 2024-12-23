@@ -17,6 +17,15 @@ Preprocessing P300 signals using Independent Component Analysis and Artifact Rem
 
 Reference: https://eeglab.org/
 
+### [HW3 Deep Learning for BCI](https://docs.google.com/document/d/1Nd9VnuSiABq8sBSdQU757xbXsCrLauOrR6r-mbcrAoA/edit?tab=t.0)
+Utilize Convolutional Neural Network (CNN) for motor imagery EEG classification tasks
+
+**Key feature**
+- Pytorch
+- CNN
+- Difficulty based training schemes: curriculum learning
+- Fine-Tuning
+
 ## Lab
 
 ### [Lab1: EEG acquisition](https://docs.google.com/document/d/11BufkUJcEF0ssB7zgCCN8N7BtYfIvQlprkdgY7nu7mI/edit?tab=t.0)
